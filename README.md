@@ -45,7 +45,7 @@
 
 ## 🗂️ Estructura del proyecto
 
-
+```text
 Juego-Amigo-Secreto/
 ├── index.html
 ├── style.css
@@ -55,7 +55,7 @@ Juego-Amigo-Secreto/
 │   ├── captura.png
 │   └── play_circle_outline.png
 
-
+```text
 ---
 
 ## ▶️ Cómo ejecutar el proyecto
