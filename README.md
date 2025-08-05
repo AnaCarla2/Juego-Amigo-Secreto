@@ -45,7 +45,7 @@
 
 ## 🗂️ Estructura del proyecto
 
-```text
+
 Juego-Amigo-Secreto/
 ├── index.html
 ├── style.css
