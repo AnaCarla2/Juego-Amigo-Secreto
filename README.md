@@ -45,14 +45,15 @@
 
 ## 🗂️ Estructura del proyecto
 
-Challenge-Amigo-Secreto/
+```text
+Juego-Amigo-Secreto/
 ├── index.html
 ├── style.css
 ├── script.js
 ├── assets/
-│ ├── mujer-sonriente.jpg
-│ ├── juago-amigo-secreto.png
-│ └── play_circle_outline.png
+│   ├── mujer-sonriente.jpg
+│   ├── captura.png
+│   └── play_circle_outline.png
 
 
 ---
