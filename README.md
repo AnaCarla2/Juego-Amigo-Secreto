@@ -43,19 +43,6 @@
 
 ---
 
-## 🗂️ Estructura del proyecto
-
-```text
-Juego-Amigo-Secreto/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── mujer-sonriente.jpg
-│   ├── captura.png
-│   └── play_circle_outline.png
-
-
 ## ▶️ Cómo ejecutar el proyecto
 
 1. Clona el repositorio:
